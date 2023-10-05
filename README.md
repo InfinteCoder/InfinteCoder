@@ -13,7 +13,7 @@
 
 ### Code.org Gamelab 
 [Robot Face](https://InfinteCoder.github.io/Robot/)
-> In this project I used a variety of shapes and random apsects to create a constantley changing and unique robot.
+ > In this project I used a variety of shapes and random apsects to create a constantley changing and unique robot.
 
  [Captioned Scene](https://studio.code.org/projects/gamelab/Ks5FD1ZQlD4RcKuJeGaDtz8XD3lw6vmfZbNJrYyGCzY)
  > In this project I created one of my favorite scenes comparing the best two soccer players in the world.
