@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m @InfinteCoder
-- 👀 I’m interested in Soccer
-- 🌱 I’m currently learning Intro to Progrmamming
+- ⚽ I’m interested in Soccer
+- 💻 I’m currently learning Intro to Progrmamming
 - 💞️ I’m looking to collaborate on diffirent coding projects with various coding languages
 - 📫 How to reach me selvamuruganh27@wpsma.org
 
@@ -11,7 +11,7 @@
 # My Works
 
 
-# Code.org Gamelab 
+### Code.org Gamelab 
 [Robot Face](https://InfinteCoder.github.io/Robot/)
 < In this project I used a variety of shapes and random apsects to create a constantley changing and unique robot.
  
