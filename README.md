@@ -18,10 +18,8 @@
  [Captioned Scene](https://studio.code.org/projects/gamelab/Ks5FD1ZQlD4RcKuJeGaDtz8XD3lw6vmfZbNJrYyGCzY)
  > In this project I created one of my favorite scenes comparing the best two soccer players in the world.
 
- [Animation]()
->
-[Interactive Card]()
->
+[Interactive Card](https://studio.code.org/projects/gamelab/tOH7_cI0gnDAB6XI_k6QpMplG11qBUsbKS0X7ym0bN4)
+> In this assignment, I created an interactive card which is based of valentines day. This card will vary depedning on if you select yes or no for the card.
 [Side Scroller]()
 >
 [Flyer Game]()
