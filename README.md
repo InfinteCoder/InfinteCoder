@@ -20,8 +20,8 @@
 [Interactive Card](https://studio.code.org/projects/gamelab/tOH7_cI0gnDAB6XI_k6QpMplG11qBUsbKS0X7ym0bN4)
 > In this assignment, I created an interactive card which is based of valentines day. This card will vary depedning on if you select yes or no for the card. 
 
-[Side Scroller]()
->
+[Side Scroller](https://studio.code.org/projects/gamelab/CP_GY2XeKHZhw5J5YihxhKgGeFU5z7DIDlCD36Id83Y)
+> In this project I created a game using sprite movement and colllision. I used looping and if loops to help repeat and replay the game.
 [Flyer Game]()
 >
 [Project - Design a Game]()
