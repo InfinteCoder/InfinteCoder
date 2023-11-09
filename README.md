@@ -22,7 +22,7 @@
 
 [Side Scroller](https://studio.code.org/projects/gamelab/CP_GY2XeKHZhw5J5YihxhKgGeFU5z7DIDlCD36Id83Y)
 > In this project I created a game using sprite movement and colllision. I used looping and if loops to help repeat and replay the game.
-
+ 
 [Flyer Game]()
 > 
 [Project - Design a Game]()
