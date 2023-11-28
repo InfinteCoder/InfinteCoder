@@ -26,7 +26,7 @@
 [Flyer Game](https://studio.code.org/projects/gamelab/ZuDhACIfXwrCPwmzz7Ohz9PYhvybxkLiiOpSCAQQfSs)
 >  The game helped us work with new complex sprite movements. We also added counters and new loops so the user can replay the game.
 
-[Platform Game][https://studio.code.org/projects/gamelab/ZuDhACIfXwrCPwmzz7Ohz9PYhvybxkLiiOpSCAQQfSs](https://studio.code.org/projects/gamelab/iXVC7Ql4AIFH_pkbwHTrv0ge2JiYkULVZAiVFj8AANg)
+[Platform Game](https://studio.code.org/projects/gamelab/iXVC7Ql4AIFH_pkbwHTrv0ge2JiYkULVZAiVFj8AANg)
 >  I used new learned functions and new methods to create a platform game. I also used side colliders and used previous knowldege to make my game more complex and unique.
 
 [Project - Design a Game]()
