@@ -12,10 +12,10 @@
  
 ### Code.org Gamelab 
 [Robot Face](https://InfinteCoder.github.io/Robot/)
- > In this project I used a variety of shapes and random apsects to create a constantley changing and unique robot.
+ > In this project I used a variety of shapes and random apsects to create a constantley changing and unique robot. This was my first project using random funcitons and changing the shape everytime when 
 
  [Captioned Scene](https://studio.code.org/projects/gamelab/Ks5FD1ZQlD4RcKuJeGaDtz8XD3lw6vmfZbNJrYyGCzY)
- > In this project I created one of my favorite scenes comparing the best two soccer players in the world.
+ > In this project I created one of my favorite scenes comparing the best two soccer players in the world. I used sprits and shapes and random rgb colors to create a unqiue experience.
 
 [Interactive Card](https://studio.code.org/projects/gamelab/tOH7_cI0gnDAB6XI_k6QpMplG11qBUsbKS0X7ym0bN4)
 > In this assignment, I created an interactive card which is based of valentines day. This card will vary depedning on if you select yes or no for the card. 
@@ -29,7 +29,7 @@
 [Platform Game](https://studio.code.org/projects/gamelab/iXVC7Ql4AIFH_pkbwHTrv0ge2JiYkULVZAiVFj8AANg)
 >  I used new learned functions and new methods to create a platform game. I also used side colliders and used previous knowldege to make my game more complex and unique.
 
-[Project - Design a Game]()
->
+[Project - Design a Game](https://studio.code.org/projects/gamelab/auvSPfOm26m7rs1BQknJbl5qE3CoA-jgdX73oC3wMA0)
+> In this project I learned to work with complex movement. I also worked with new changing background and score and connecting and relating those two score. Functions like Istouching helped my game funciton and I relied heavily on that throughout my project.  
 
  
