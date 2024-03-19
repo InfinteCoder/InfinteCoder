@@ -32,7 +32,7 @@
 [Project - Design a Game](https://studio.code.org/projects/gamelab/auvSPfOm26m7rs1BQknJbl5qE3CoA-jgdX73oC3wMA0)
 > In this project I created a game simmilar to space invaders. I learned to work with complex movement. I also worked with new changing background and score and connecting and relating those two score. Functions like Istouching helped my game funciton and I relied heavily on that throughout my project.
 
-### Code.org Gamelab
+### CMU
 [CMU - Creative Task](https://academy.cs.cmu.edu/sharing/greenYellowCheetah2308)
 
 [CMU - Creative Task](https://academy.cs.cmu.edu/sharing/blueGoldfish2559)
