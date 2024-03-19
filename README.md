@@ -34,8 +34,10 @@
 
 ### CMU
 [Unit 1 Creative Task Real Madird Logo](https://academy.cs.cmu.edu/sharing/greenYellowCheetah2308)
+> I used various shapes and colors to create an complex image. I used texts with various fonts and various colors to create  realistic Real Madrid logo.
 
 [Unit 2 Creative Task Soccer Goal](https://academy.cs.cmu.edu/sharing/blueGoldfish2559)
+> I created a mini soccer game which spawns soccer balls with the click of the mouse. There is also a counter which furhter tracks the amount of goals shot.
 
 
  
