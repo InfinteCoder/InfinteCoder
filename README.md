@@ -33,9 +33,9 @@
 > In this project I created a game simmilar to space invaders. I learned to work with complex movement. I also worked with new changing background and score and connecting and relating those two score. Functions like Istouching helped my game funciton and I relied heavily on that throughout my project.
 
 ### CMU
-[CMU - Creative Task](https://academy.cs.cmu.edu/sharing/greenYellowCheetah2308)
+[Unit 1 Creative Task Real Madird Logo](https://academy.cs.cmu.edu/sharing/greenYellowCheetah2308)
 
-[CMU - Creative Task](https://academy.cs.cmu.edu/sharing/blueGoldfish2559)
+[Unit 2 Creative Task Soccer Goal](https://academy.cs.cmu.edu/sharing/blueGoldfish2559)
 
 
  
