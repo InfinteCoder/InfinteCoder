@@ -39,5 +39,8 @@
 [Unit 2 Creative Task Soccer Goal](https://academy.cs.cmu.edu/sharing/blueGoldfish2559)
 > I created a mini soccer game which spawns soccer balls with the click of the mouse. There is also a counter which furhter tracks the amount of goals shot.
 
+[Unit 3 Creative Task Soccer Goal](https://academy.cs.cmu.edu/sharing/blackKitten4862)
+> I created a solar system which depicts the moon landing that occured. When the rocket lands on the moon, The American flag will be placed on the moon.
+
 
  
