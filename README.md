@@ -32,15 +32,18 @@
 [Project - Design a Game](https://studio.code.org/projects/gamelab/auvSPfOm26m7rs1BQknJbl5qE3CoA-jgdX73oC3wMA0)
 > In this project I created a game simmilar to space invaders. I learned to work with complex movement. I also worked with new changing background and score and connecting and relating those two score. Functions like Istouching helped my game funciton and I relied heavily on that throughout my project.
 
+### App Inventor 
+> I was unfortunatly absent for this whole unit since when we were doing this unit I was on a medical emergency  trip to visit my grandmother in India and I was absent for nearly a month and a half from December to mid of January. I was exempt from this unit. 
+
 ### CMU
 [Unit 1 Creative Task Real Madird Logo](https://academy.cs.cmu.edu/sharing/greenYellowCheetah2308)
 > I used various shapes and colors to create an complex image. I used texts with various fonts and various colors to create  realistic Real Madrid logo.
 
 [Unit 2 Creative Task Soccer Goal](https://academy.cs.cmu.edu/sharing/blueGoldfish2559)
-> I created a mini soccer game which spawns soccer balls with the click of the mouse. There is also a counter which furhter tracks the amount of goals shot.
+> I created a mini soccer game which spawns soccer balls with the click of the mouse. There is also a counter which further tracks the amount of goals shot. I used the cursor and boundry properties to create many soccer balls and goals. 
 
 [Unit 3 Creative Task Soccer Goal](https://academy.cs.cmu.edu/sharing/blackKitten4862)
-> I created a solar system which depicts the moon landing that occured. When the rocket lands on the moon, The American flag will be placed on the moon.
+> I created a solar system which depicts the moon landing that occured. When the rocket lands on the moon, The American flag will be placed on the moon. I used the mouse cursor property and made my rocket ship follow the cursor and used if else statments to create boundrys. 
 
-
- 
+[Unit 4 Creative Task Baseball Game](https://academy.cs.cmu.edu/sharing/grayMouse3326)
+> In this project the user must move a baseball across the feild which is created through using shape methods and other concpets from this unit such as custom properties, the group function and many if else funcitons as well.  
